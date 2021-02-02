@@ -207,5 +207,27 @@
   $(window).on('load', function() {
     aos_init();
   });
+  
+  //BİO POP-OVER function
+  $('.img-fluid').hover(function() {
+
+   $(this).popover({
+      trigger: 'hover',
+      content: function() {
+
+               // $(this) is set to the element with the popover
+               // get your_data, 
+			   var index = parseInt($(this).attr("id"));
+
+               return biolist[index];
+            },
+      placement: 'bottom'
+    })
+    .popover('show');
+
+ });   
+ 
+
+
 
 })(jQuery);
