@@ -1059,6 +1059,10 @@ section {
   margin-left: 8px;
 }
 
+.popover{
+    max-width: 40%; /* Max Width of the popover (depending on the container!) */
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
