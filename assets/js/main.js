@@ -209,7 +209,7 @@
   });
   
   //BİO POP-OVER function
-  $('.img-fluid').hover(function() {
+  $('.speaker').hover(function() {
 
    $(this).popover({
       trigger: 'hover',
