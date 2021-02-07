@@ -1,4 +1,4 @@
-var biolist=["Aslıhan Demirkaya, Research Scientist at Vianai Systems Inc.",
+var biolist=["Aslıhan Demirkaya",
 "Öznur Taştan, ",
 "Özge Özmen",
 "Özge İşlegen had her undergraduate degree in Industrial Engineering at Bilkent University. Afterward, she received her Ph.D. degree in Operations, Information, and Technology at Stanford Graduate School of Business in 2011. Özge worked as a researcher and teacher at Northwestern University, Kellogg School of Management for 8 years. Her main research interest was time-based pricing strategies in electricity markets and she taught operations management and data analytics to MBA students during her time at Kellogg. Her experience in operations management, pricing and analytics led her to be a senior data scientist at the dynamic pricing team in Instacart, an American company that operates a grocery delivery and pick-up service in the United States and Canada. ",
