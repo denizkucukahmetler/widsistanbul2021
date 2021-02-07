@@ -225,7 +225,58 @@
     })
     .popover('show');
 
- });   
+ });  
+ 
+ 	 var update_texts = function(){
+		 $('body').i18n();
+	 };
+ 
+ $(document).ready(function() {
+	 
+	    $.i18n().load( 
+		{
+
+		"en": {
+			"home": "Home",
+			"about": "About",
+			"speakers": "Speakers",
+			"ambass": "Ambassadors",
+			"volunt": "Volunteers",
+			"supporters": "Supporters",
+			"register" : "Register",
+		},
+		"tr": {
+			"home": "Anasayfa",
+			"about": "Hakkında",
+			"speakers": "Konuşmacılar",
+			"ambass": "Temsilciler",
+			"volunt": "Gonulluler",
+			"supporters": "Destekçiler",
+			"register" : "Kayıt",
+		}
+
+		} );
+		update_texts();
+ });
+
+$('#langlink').click(function(e) {
+	e.preventDefault();
+    $('#langlink').text(function(_,txt) {
+        var ret='';
+
+        if ( txt == 'EN' ) {
+           ret = 'TR';
+		   $.i18n().locale = 'tr';
+
+        }else{
+           ret = 'EN';
+		   $.i18n().locale = 'en';
+        }
+		update_texts();
+        return ret;
+    });
+    return false;
+}); 
  
 
 
