@@ -264,7 +264,7 @@ $('#langlink').click(function(e) {
     $('#langlink').text(function(_,txt) {
         var ret='';
 
-        if ( txt == 'EN' ) {
+        if ( txt == 'TR' ) {
            ret = 'TR';
 		   $.i18n().locale = 'tr';
 
