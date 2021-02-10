@@ -241,7 +241,7 @@
 			"about": "About",
 			"speakers": "Speakers",
 			"ambass": "Ambassadors",
-			"volunt": "Volunteers",
+			"volunteers": "Volunteers",
 			"supporters": "Supporters",
 			"register" : "Register",
 		},
@@ -250,7 +250,7 @@
 			"about": "Hakkında",
 			"speakers": "Konuşmacılar",
 			"ambass": "Temsilciler",
-			"volunt": "Gonulluler",
+			"volunteers": "Gönüllüler",
 			"supporters": "Destekçiler",
 			"register" : "Kayıt",
 		}
