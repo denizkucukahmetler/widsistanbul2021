@@ -265,12 +265,12 @@ $('#langlink').click(function(e) {
         var ret='';
 
         if ( txt == 'TR' ) {
-           ret = 'TR';
-		   $.i18n().locale = 'tr';
-
-        }else{
            ret = 'EN';
 		   $.i18n().locale = 'en';
+
+        }else{
+           ret = 'TR';
+		   $.i18n().locale = 'tr';
         }
 		update_texts();
         return ret;
