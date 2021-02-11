@@ -266,11 +266,11 @@ $('#langlink').click(function(e) {
 
         if ( txt == 'TR' ) {
            ret = 'EN';
-		   $.i18n().locale = 'en';
+		   $.i18n().locale = 'tr';
 
         }else{
            ret = 'TR';
-		   $.i18n().locale = 'tr';
+		   $.i18n().locale = 'en';
         }
 		update_texts();
         return ret;
