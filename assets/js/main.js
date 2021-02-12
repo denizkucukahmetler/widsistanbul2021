@@ -218,9 +218,9 @@
                // $(this) is set to the element with the popover
                // get your_data, 
 			   var index = parseInt($(this).attr("id"));
-
-               return biolist[index];
-            },
+				   return biolist[index];
+	
+			},
       placement: 'bottom'
     })
     .popover('show');
