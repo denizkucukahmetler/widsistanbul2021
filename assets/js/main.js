@@ -218,8 +218,12 @@
                // $(this) is set to the element with the popover
                // get your_data, 
 			   var index = parseInt($(this).attr("id"));
+      if($.i18n().locale == 'en'){
+        return biolist[index];
+      }else if($.i18n().locale == 'tr'){
+        return biolisttr[index];
+      }
 
-               return biolist[index];
             },
       placement: 'bottom'
     })
@@ -244,7 +248,7 @@
 			"volunteers": "Volunteers",
 			"supporters": "Supporters",
 			"register" : "Register",
-			"ab" : "<br /> <br />  <br /> <br /> <br /> <br /> <br /> WiDS Istanbul is an independent event organized by WiDS ambassadors, Aslıhan Demirkaya, Öznur Taştan and Özge Özmen. WiDS Istanbulwill take place on March 7, 2021 andcoincides with the annual Women in Data Science (WiDS) Worldwide conference hosted by Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS events, which feature outstanding women doing outstanding work.",
+			"abo" : "<br /> <br />  <br /> <br /> <br /> <br /> <br /> WiDS Istanbul is an independent event organized by WiDS ambassadors, Aslıhan Demirkaya, Öznur Taştan and Özge Özmen. WiDS Istanbulwill take place on March 7, 2021 andcoincides with the annual Women in Data Science (WiDS) Worldwide conference hosted by Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS events, which feature outstanding women doing outstanding work.",
 			"amb": "Ambassadors",
 		},
 		"tr": {
@@ -255,7 +259,7 @@
 			"volunteers": "Gönüllüler",
 			"supporters": "Destekçiler",
 			"register" : "Kayıt",
-			"ab":"Hakkında",
+			"abo":"<br /> <br />  <br /> <br /> <br /> <br /> <br /> WiDS İstanbul, WiDS elçileri Aslıhan Demirkaya, Öznur Taştan ve Özge Özmen tarafından düzenlenen bağımsız bir etkinliktir. WiDS İstanbul, 7 Mart 2021'de gerçekleşecek ve Stanford Üniversitesi ve dünya çapında tahmini 150'den fazla lokasyonun ev sahipliğinde yıllık Veri Biliminde Kadınlar (WiDS) Dünya Çapında konferans ile aynı zamana denk gelecek. Tüm cinsiyetler, olağanüstü işler yapan seçkin kadınların yer aldığı WiDS etkinliklerine davetlidir.",
 			"amb": "Temsilciler",
 			
 		}
@@ -264,24 +268,24 @@
 		update_texts();
  });
 
-$('#langlink').click(function(e) {
-	e.preventDefault();
+ $('#langlink').click(function(e) {
+  e.preventDefault();
     $('#langlink').text(function(_,txt) {
         var ret='';
 
         if ( txt == 'TR' ) {
            ret = 'EN';
-		   $.i18n().locale = 'tr';
+       $.i18n().locale = 'tr';
 
         }else{
            ret = 'TR';
-		   $.i18n().locale = 'en';
+       $.i18n().locale = 'en';
         }
-		update_texts();
+    update_texts();
         return ret;
     });
     return false;
-}); 
+});
  
 
 
