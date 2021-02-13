@@ -291,7 +291,7 @@
       "oznur":"Assistant Professor at Sabanci University",
       "ozgeoz":"Data Science Instructor at BTK Akademi",
       "keynote":"KEYNOTE SPEAKER",
-      "aytulinfo": "Aytül Erçil, Professor; Partner and CEO, Vespara",
+      "aytulinfo": "Aytül Erçil, Professor; Partner and CEO, Vispera",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -344,7 +344,7 @@
       "oznur":"Sabancı Üniversitesi'nde Doçent",
       "ozgeoz":"BTK Akademi'de Veri Bilimi Eğitmeni",
        "keynote"   :"AÇILIŞ KONUŞMACISI",
-      "aytulinfo":"Aytül Erçil, Profesör; Ortak ve CEO, Vespara A.Ş.",
+      "aytulinfo":"Aytül Erçil, Profesör; Ortak ve CEO, Vispera A.Ş.",
 		}
 
 		} );
