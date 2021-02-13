@@ -284,8 +284,9 @@
       "speakers2":"Speakers",
       "volunteers2": "Volunteers",
       "ambass2": "Ambassadors",
+       "supporters2": "Supporters",
       "program":'<h3>Program Stream</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1sO0d4DCoAkW-yTd_JOt0A82Jjs-8gT3B/view?usp=sharing" target="blank">Download program stream</a>',
-
+      "date":'MARCH 7<span class="ordinal">th</span>, 2021'
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -331,8 +332,9 @@
       "speakers2":"Konuşmacılar",
       "volunteers2": "Gönüllüler",
       "ambass2": "Temsilciler",
+      "supporters2": "Destekçiler",
       "program":'<h3>Program Akışı</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1pyXu_ZlwMfQ8EAoibnZNmHUidZsMkIB2/view?usp=sharing" target="blank">Program akışını indir</a>',
-
+      "date":'7<span class="ordinal">th</span> Mart, 2021'
 
 		}
 
