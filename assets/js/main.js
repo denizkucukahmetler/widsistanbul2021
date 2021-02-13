@@ -250,6 +250,16 @@
 			"register" : "Register",
 			"abo" : "<br /> <br />  <br /> <br /> <br /> <br /> <br /> WiDS Istanbul is an independent event organized by WiDS ambassadors, Aslıhan Demirkaya, Öznur Taştan and Özge Özmen. WiDS Istanbul will take place on March 7, 2021 and coincides with the annual Women in Data Science (WiDS) Worldwide conference hosted by Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS events, which feature outstanding women doing outstanding work.",
 			"amb": "Ambassadors",
+      "buket":"Industrial Engineering Student at Sabanci University",
+      "duygu": "Senior Software Engineer at Havelsan",
+      "deniz":"Computer Science and Engineering Student at Sabanci University",
+      "barina": "Statistics Student at Middle East Technical University",	
+      "ozlem":"Computer Science and Engineering Student at Erciyes University",
+      "busra":"Data Science Master Student at Sabanci University and Data Scientist at Garanti BBVA",
+      "busecarik":"Computer Science and Engineering Master Student at Sabanci University",
+      "asuman":"Molecular Biology and Genetics Student at Sabanci University",
+      "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
+      "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -261,7 +271,17 @@
 			"register" : "Kayıt",
 			"abo":"<br /> <br />  <br /> <br /> <br /> <br /> <br /> Veri Biliminde Kadınlar  İstanbul, WiDS elçileri Aslıhan Demirkaya, Öznur Taştan ve Özge Özmen tarafından düzenlenen bağımsız bir etkinliktir. WiDS  İstanbul, 7 Mart 2021'de Stanford Üniversitesi ve dünya çapında 150'den fazla lokasyonun ev sahipliğinde aynı anda gerçekleşecektir. Tüm cinsiyetler, harika işler yapan harika kadınların yer aldığı WiDS etkinliklerine davetlidir.",
 			"amb": "Temsilciler",
-			
+      "buket":"Sabancı Üniversitesi'nde Endüstri Mühendisliği Öğrencisi",
+      "duygu": "Havelsan'da Kıdemli Yazılım Mühendisi",
+      "deniz":"Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Öğrencisi",
+      "barina": "Orta Doğu Teknik Üniversitesi'nde İstatistik Öğrencisi",	
+      "ozlem":"Erciyes Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Öğrencisi",
+      "busra":"Sabancı Üniversitesi'nde Veri Bilimi Master Öğrencisi ve Garanti BBVA'da Veri Bilimci",
+      "busecarik":"Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Master Öğrencisi",
+      "asuman":"Sabancı Üniversitesi'nde Moleküler Biyoloji ve Genetik Öğrencisi",
+      "busek":"Veri Bilimi Master Öğrencisi ve ÇiçekSepeti'nde Veri Analisti",
+      "elifoz": "Acıbadem Üniversitesinde Moleküler Biyoloji ve Genetik Öğrencisi",
+      
 		}
 
 		} );
