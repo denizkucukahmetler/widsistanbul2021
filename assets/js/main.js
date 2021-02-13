@@ -338,7 +338,7 @@
       "volunteers2": "Gönüllüler",
       "ambass2": "Temsilciler",
       "supporters2": "Destekçiler",
-      "program":'<h3>Program Akışı</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1pyXu_ZlwMfQ8EAoibnZNmHUidZsMkIB2/view?usp=sharing" target="blank">Program akışını indir</a>',
+      "program":'<h3>Program Akışı</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1mYd7Utb3dk70Kv1KObtZcfETbNFiMTmL/view?usp=sharing" target="blank">Program akışını indir</a>',
       "date":'7 Mart, 2021',
       "aslihan":"Vianai Systems Inc. Şirketi'nde Araştırmacı",
       "oznur":"Sabancı Üniversitesi'nde Doçent",
