@@ -276,6 +276,9 @@
       "fatma":"Assistant Professor at Koç University",
       "wids":"Women in Data Science",
       "conference":"Conference 2021",
+      "place":"ISTANBUL, TURKEY",
+      "virtual":"VIRTUAL EVENT",
+      "register":"REGISTER",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -313,6 +316,9 @@
       "fatma":"Koç Üniversitesi'nde Doçent",
       "wids":"Veri Biliminde Kadınlar",
       "conference":"Konferansı 2021",
+      "place":"ISTANBUL, TÜRKİYE",
+      "virtual":"VIRTUAL EVENT",
+      "register":"KAYIT OL",
 		}
 
 		} );
