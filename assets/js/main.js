@@ -290,6 +290,8 @@
       "aslihan":"Research Scientist at Vianai Systems Inc.",
       "oznur":"Assistant Professor at Sabanci University",
       "ozgeoz":"Data Science Instructor at BTK Akademi",
+      "keynote":"KEYNOTE SPEAKER",
+      "aytulinfo": "Aytül Erçil, Professor; Partner and CEO, Vespara",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -341,7 +343,8 @@
       "aslihan":"Vianai Systems Inc. Şirketi'nde Araştırmacı",
       "oznur":"Sabancı Üniversitesi'nde Doçent",
       "ozgeoz":"BTK Akademi'de Veri Bilimi Eğitmeni",
-
+       "keynote"   :"AÇILIŞ KONUŞMACISI",
+      "aytulinfo":"Aytül Erçil, Profesör; Ortak ve CEO, Vespara A.Ş.",
 		}
 
 		} );
