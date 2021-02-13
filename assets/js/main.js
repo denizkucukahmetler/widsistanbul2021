@@ -355,11 +355,11 @@
 
         if ( txt == 'TR' ) {
            ret = 'EN';
-       $.i18n().locale = 'tr';
+       $.i18n().locale = 'en';
 
         }else{
            ret = 'TR';
-       $.i18n().locale = 'en';
+       $.i18n().locale = 'tr';
         }
     update_texts();
         return ret;
