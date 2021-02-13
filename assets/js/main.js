@@ -260,6 +260,20 @@
       "asuman":"Molecular Biology and Genetics Student at Sabanci University",
       "busek":"Data Science Master Student at Sabancı University and Data Analyst at ÇiçekSepeti",
       "elifoz": "Molecular Biology and Genetics Student at Acibadem University",
+      "speakers_ab":"WiDS Istanbul will host 14 speakers this year.",
+      "ozge_is":"Senior Data Scientist at Instacart",
+      "selen":"Research Scientist at Stanford University School of Medicine",
+      "burcu":"Senior Machine Learning Engineer, Anti-Abuse AI at LinkedIn",
+      "suveyda":"Associate/Specialist at McKinsey & Company",
+      "pinar":"Professor and Chair of Computer Engineering at Hacettepe University",
+      "gozde":"Professor of AI & Data/ Computer Engineering at Istanbul Technical University; ITU AI Center, Founding Member",
+      "sera":"Associate Data Scientist at Philip Morris International",
+      "pelin":"Jr Data Analyst at JotForm, MSc Data Science at METU",
+      "damla":"CEO at AppNava, Co-founder",
+      "mina":"Founder of UP School, ed-tech start-up",
+      "seyhan":"Principal Algorithm Research Engineer at SK hynix America Inc.",
+      "pinar_er":"Commencis Şirketi'nde Veri Bilimci",
+      "fatma":"Koç Üniversitesi'nde Doçent"
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -281,7 +295,22 @@
       "asuman":"Sabancı Üniversitesi'nde Moleküler Biyoloji ve Genetik Öğrencisi",
       "busek":"Veri Bilimi Master Öğrencisi ve ÇiçekSepeti'nde Veri Analisti",
       "elifoz": "Acıbadem Üniversitesinde Moleküler Biyoloji ve Genetik Öğrencisi",
-      
+      "speakers_ab":"WiDS Istanbul bu yıl 14 konuşmacıya ev sahipliği yapacaktır.",
+      "ozge_is":"Instacart'da Kıdemli Veri Bilimcisi",
+      "selen":"Stanford Üniversitesi Tıp Fakütesi'nde Araştırmacı",
+      "burcu":"LinkedIn Şirketi'nde Senior Machine Learning Engineer, Anti-Abuse AI",
+      "suveyda":"McKinsey & Company Şirketi'nde Associate/Specialist",
+      "pinar":"Hacettepe Üniversitesi'nde Profesör ve Bilgisayar Mühendisliği Başkanı",
+      "gozde":"İstanbul Teknik Üniversitesi'nde Yapay Zeka & Veri / Bilgisayar Mühendisliği Profesörü; ITU AI Center Kurucu Üyesi",
+      "sera":"Philip Morris International Şirketi'nde Associate Veri Bilimcisi",
+      "pelin":"JotForm Şirketi'nde Jr Veri Analisti, ODTÜ'de Veri Bilimi Yüksek Lisans",
+      "damla":"AppNava Şirketi'nde CEO, Kurucu Ortak",
+      "mina":"UP School Kurucusu, ed-tech start-up",
+      "seyhan":"SK hynix America Inc. Şirketi'nde Principal Algorithm Araştırma Mühendisi",
+      "pinar_er":"Data Scientist at Commencis",
+      "fatma":"Assistant Professor at Koç University"
+     
+
 		}
 
 		} );
