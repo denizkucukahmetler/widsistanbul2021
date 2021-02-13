@@ -353,12 +353,12 @@
     $('#langlink').text(function(_,txt) {
         var ret='';
 
-        if ( txt == 'TR' ) {
-           ret = 'EN';
+        if ( txt == 'EN' ) {
+           ret = 'TR';
        $.i18n().locale = 'en';
 
         }else{
-           ret = 'TR';
+           ret = 'EN';
        $.i18n().locale = 'tr';
         }
     update_texts();
