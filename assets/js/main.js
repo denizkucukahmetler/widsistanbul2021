@@ -279,6 +279,8 @@
       "place":"ISTANBUL, TURKEY",
       "virtual":"VIRTUAL EVENT",
       "register2":"REGISTER",
+      "spe": "Speakers",
+      "team": "Team Members",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -289,7 +291,7 @@
 			"supporters": "Destekçiler",
 			"register" : "Kayıt",
 			"abo":"<br /> <br />  <br /> <br /> <br /> <br /> <br /> Veri Biliminde Kadınlar  İstanbul, WiDS elçileri Aslıhan Demirkaya, Öznur Taştan ve Özge Özmen tarafından düzenlenen bağımsız bir etkinliktir. WiDS  İstanbul, 7 Mart 2021'de Stanford Üniversitesi ve dünya çapında 150'den fazla lokasyonun ev sahipliğinde aynı anda gerçekleşecektir. Tüm cinsiyetler, harika işler yapan harika kadınların yer aldığı WiDS etkinliklerine davetlidir.",
-			"amb": "Temsilciler",
+			"amb": "Temsilci",
       "buket":"Sabancı Üniversitesi'nde Endüstri Mühendisliği Öğrencisi",
       "duygu": "Havelsan'da Kıdemli Yazılım Mühendisi",
       "deniz":"Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Öğrencisi",
@@ -319,6 +321,8 @@
       "place":"ISTANBUL, TÜRKİYE",
       "virtual":"SANAL ETKİNLİK",
       "register2":"KAYIT OL",
+      "spe": "Konuşmacı",
+      "team": "Takım Üyesi",
 		}
 
 		} );
