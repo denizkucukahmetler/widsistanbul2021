@@ -286,7 +286,10 @@
       "ambass2": "Ambassadors",
        "supporters2": "Supporters",
       "program":'<h3>Program Stream</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1sO0d4DCoAkW-yTd_JOt0A82Jjs-8gT3B/view?usp=sharing" target="blank">Download program stream</a>',
-      "date":'MARCH 7<span class="ordinal">th</span>, 2021'
+      "date":'MARCH 7<span class="ordinal">th</span>, 2021',
+      "aslihan":"Research Scientist at Vianai Systems Inc.",
+      "oznur":"Assistant Professor at Sabanci University",
+      "ozgeoz":"Data Science Instructor at BTK Akademi",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -334,7 +337,10 @@
       "ambass2": "Temsilciler",
       "supporters2": "Destekçiler",
       "program":'<h3>Program Akışı</h3><a id="program_link" class="cta-btn" href="https://drive.google.com/file/d/1pyXu_ZlwMfQ8EAoibnZNmHUidZsMkIB2/view?usp=sharing" target="blank">Program akışını indir</a>',
-      "date":'7<span class="ordinal">th</span> Mart, 2021'
+      "date":'7<span class="ordinal">th</span> Mart, 2021',
+      "aslihan":"Vianai Systems Inc. Şirketi'nde Araştırmacı",
+      "oznur":"Sabancı Üniversitesi'nde Doçent",
+      "ozgeoz":"BTK Akademi'de Veri Bilimi Eğitmeni",
 
 		}
 
