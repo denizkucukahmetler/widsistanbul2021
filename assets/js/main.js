@@ -274,6 +274,8 @@
       "seyhan":"Principal Algorithm Research Engineer at SK hynix America Inc.",
       "pinar_er":"Data Scientist at Commencis",
       "fatma":"Assistant Professor at Koç University",
+      "wids":"Women in Data Science",
+      "conference":"Conference 2021",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -309,7 +311,8 @@
       "seyhan":"SK hynix America Inc. Şirketi'nde Principal Algorithm Araştırma Mühendisi",
       "pinar_er":"Commencis Şirketi'nde Veri Bilimci",
       "fatma":"Koç Üniversitesi'nde Doçent",
-
+      "wids":"Veri Biliminde Kadınlar",
+      "conference":"Konferansı 2021",
 		}
 
 		} );
