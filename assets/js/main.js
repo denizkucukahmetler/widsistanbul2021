@@ -281,6 +281,11 @@
       "register2":"REGISTER",
       "spe": "Speakers",
       "team": "Team Members",
+      "speakers2":"Speakers",
+      "volunteers2": "Volunteers",
+      "ambass2": "Ambassadors",
+
+
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -323,6 +328,11 @@
       "register2":"KAYIT OL",
       "spe": "Konuşmacı",
       "team": "Takım Üyesi",
+      "speakers2":"Konuşmacılar",
+      "volunteers2": "Gönüllüler",
+      "ambass2": "Temsilciler",
+
+
 		}
 
 		} );
