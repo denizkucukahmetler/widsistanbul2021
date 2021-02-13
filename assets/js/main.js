@@ -272,8 +272,8 @@
       "damla":"CEO at AppNava, Co-founder",
       "mina":"Founder of UP School, ed-tech start-up",
       "seyhan":"Principal Algorithm Research Engineer at SK hynix America Inc.",
-      "pinar_er":"Commencis Şirketi'nde Veri Bilimci",
-      "fatma":"Koç Üniversitesi'nde Doçent"
+      "pinar_er":"Data Scientist at Commencis",
+      "fatma":"Assistant Professor at Koç University",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -307,9 +307,8 @@
       "damla":"AppNava Şirketi'nde CEO, Kurucu Ortak",
       "mina":"UP School Kurucusu, ed-tech start-up",
       "seyhan":"SK hynix America Inc. Şirketi'nde Principal Algorithm Araştırma Mühendisi",
-      "pinar_er":"Data Scientist at Commencis",
-      "fatma":"Assistant Professor at Koç University"
-     
+      "pinar_er":"Commencis Şirketi'nde Veri Bilimci",
+      "fatma":"Koç Üniversitesi'nde Doçent",
 
 		}
 
