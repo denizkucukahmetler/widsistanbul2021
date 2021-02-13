@@ -351,9 +351,9 @@
 		update_texts();
  });
 
- $('#langlink').click(function(e) {
+ $("#langlink, #langlink_sandwich").click(function(e) {
   e.preventDefault();
-    $('#langlink').text(function(_,txt) {
+    $("#langlink, #langlink_sandwich").text(function(_,txt) {
         var ret='';
 
         if ( txt == 'EN' ) {
@@ -369,7 +369,6 @@
     });
     return false;
 });
- 
 
 
 
