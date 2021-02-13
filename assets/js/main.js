@@ -278,7 +278,7 @@
       "conference":"Conference 2021",
       "place":"ISTANBUL, TURKEY",
       "virtual":"VIRTUAL EVENT",
-      "register":"REGISTER",
+      "register2":"REGISTER",
 		},
 		"tr": {
 			"home": "Anasayfa",
@@ -317,8 +317,8 @@
       "wids":"Veri Biliminde Kadınlar",
       "conference":"Konferansı 2021",
       "place":"ISTANBUL, TÜRKİYE",
-      "virtual":"VIRTUAL EVENT",
-      "register":"KAYIT OL",
+      "virtual":"SANAL ETKİNLİK",
+      "register2":"KAYIT OL",
 		}
 
 		} );
