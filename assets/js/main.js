@@ -311,7 +311,7 @@
       "busra":"Sabancı Üniversitesi'nde Veri Bilimi Master Öğrencisi ve Garanti BBVA'da Veri Bilimci",
       "busecarik":"Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Master Öğrencisi",
       "asuman":"Sabancı Üniversitesi'nde Moleküler Biyoloji ve Genetik Öğrencisi",
-      "busek":"Veri Bilimi Master Öğrencisi ve ÇiçekSepeti'nde Veri Analisti",
+      "busek":"Sabancı Üniversitesi'nde Veri Bilimi Master Öğrencisi ve ÇiçekSepeti'nde Veri Analisti",
       "elifoz": "Acıbadem Üniversitesinde Moleküler Biyoloji ve Genetik Öğrencisi",
       "speakers_ab":"WiDS Istanbul bu yıl 14 konuşmacıya ev sahipliği yapacaktır.",
       "ozge_is":"Instacart'da Kıdemli Veri Bilimci",
