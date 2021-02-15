@@ -247,7 +247,7 @@
 			"ambass": "Ambassadors",
 			"volunteers": "Volunteers",
 			"supporters": "Supporters",
-			"register" : "Register",
+			"register" : "Regıster",
 			"abo" : "<br /> <br />  <br /> <br /> <br /> <br /> <br /> WiDS Istanbul is an independent event organized by WiDS ambassadors, Aslıhan Demirkaya, Öznur Taştan and Özge Özmen. WiDS Istanbul will take place on March 7, 2021 and coincides with the annual Women in Data Science (WiDS) Worldwide conference hosted by Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS events, which feature outstanding women doing outstanding work.",
 			"amb": "Ambassadors",
       "buket":"Industrial Engineering Student at Sabanci University",
