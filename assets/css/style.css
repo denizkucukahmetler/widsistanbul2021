@@ -393,7 +393,7 @@ img.resize {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/hero-bg_big.jpg") center center;
+  background: url("../img/hero-bg_big.jpg") ;
   background-size: cover;
   position: relative;
 }
