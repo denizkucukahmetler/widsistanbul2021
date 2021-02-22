@@ -327,7 +327,7 @@
       "mina":"UP School Kurucusu",
       "seyhan":"SK hynix America Inc. Şirketi'nde Araştırmacı",
       "pinar_er":"Commencis Şirketi'nde Veri Bilimci",
-      "fatma":"Koç Üniversitesi'nde Doçent",
+      "fatma":"Koç Üniversitesi'nde Dr. Öğretim Üyesi ",
       "wids":"Veri Biliminde Kadınlar",
       "conference":"Konferansı 2021",
       "place":"ISTANBUL, TÜRKİYE",
