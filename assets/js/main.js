@@ -346,7 +346,7 @@
       "oznur":"Sabancı Üniversitesi'nde Öğretim Üyesi",
       "ozgeoz":"BTK Akademi'de Veri Bilimi Eğitmeni",
        "keynote"   :"AÇILIŞ KONUŞMACISI",
-      "aytulinfo":"Aytül Erçil, Profesör; Ortak ve CEO, Vispera A.Ş.",
+      "aytulinfo":"Aytül Erçil, Profesör; Kurucu Ortak ve CEO, Vispera A.Ş.",
 		}
 
 		} );
